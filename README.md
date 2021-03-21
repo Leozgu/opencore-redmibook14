@@ -64,7 +64,7 @@ RedmiBook 14  OC EFI引导
  ---
  网卡：用的itlwm驱动 记得安装HeliPort。测了一下只能到30m的峰值<br>  
  ----
- 蓝牙：好像不能用，没具体测试<br>  
+ 蓝牙：不能用<br>  
  ----
  HDMI：好像有点问题，也没具体测试<br>  
  ---
@@ -78,3 +78,6 @@ RedmiBook 14  OC EFI引导
 ===
 ![Big Sur11.0.1](https://github.com/Leozgu/opencore-redmibook14/blob/main/img/WechatIMG16.jpeg?raw=true)
 ![Catalina10.15.7](https://github.com/Leozgu/opencore-redmibook14/blob/main/img/10.15.7.jpeg?raw=true)
+
+
+1. 
