@@ -67,3 +67,5 @@ RedmiBook 14  OC EFI引导
 =====================
 #记得修改三码呀
 ===
+![Big Sur11.0.1](https://github.com/Leozgu/opencore-redmibook14/blob/main/img/WechatIMG16.jpeg?raw=true)
+![Catalina10.15.7](https://github.com/Leozgu/opencore-redmibook14/blob/main/img/10.15.7.jpeg?raw=true)
